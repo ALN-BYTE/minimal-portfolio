@@ -18,7 +18,7 @@ function PortfolioItem({title, imgUrl, stack, link}){
                     ))}
                 </p>
             </div>
-        </div>
+        </div> 
     )
 }
 
